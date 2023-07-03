@@ -1,7 +1,7 @@
 # cpu
 This is a 2-stage pipeline risc-v cpu, built on Logisim, which is a educational software for designing and simulating digital logic circuits.
 The cpu contains two main parts, the control logic unit and datapath。
-[![overview](img/cpu.png)]
+[![overview](img/cpu.png)](https://github.com/morningbellring/cpu/blob/main/img/cpu.png)
 
 # datapath 
 The datapath has multiple muxers to select the path for different instructions
